@@ -4,13 +4,13 @@ class HttpRequest {
         return this.request('GET', url, params);
     }
     static post(url, params = {}){
-        return request('POST', url, params);
+        return this.request('POST', url, params);
     }
     static put(url, params = {}){
-        return request('PUT', url, params);
+        return this.request('PUT', url, params);
     }
     static delete(url, params = {}){
-        return request('DELETE', url, params);
+        return this.request('DELETE', url, params);
     }
 
     static request(method, url, params = {} ){
@@ -35,7 +35,8 @@ class HttpRequest {
 
                 resolve(obj);
             }
-            ajax.send();
+            ajax.setRequestHeader('Content-Type', 'application/json');
+            ajax.send(JSON.stringify(params));
         });
     }
 }
