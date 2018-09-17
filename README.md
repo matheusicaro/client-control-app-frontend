@@ -13,7 +13,8 @@ Simple design to train methods and resources on node. Below follows the system a
 
 ```bash
 npm install
-bower install in folder public/*
+cd public
+bower install
 
 ```
 **NOTE: It is necessary to run the RESTful server to register new users.**  
