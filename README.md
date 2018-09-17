@@ -1,7 +1,8 @@
 # PROJECT-CLIENT-CONTROL-FRONTEND
 
 Application to perform user management, register, delete, and specify user data, such as photo to profile (file upload).
-Simple design to train methods and resources on node. Below follows the system architecture.
+Simple design to train methods and resources on node. Below follows the system architecture. **([repository-backend](https://github.com/matheusicaro/prj-client-control-backend))**.
+
 
 ![architetura](https://user-images.githubusercontent.com/29001162/45602267-cbaa6980-b9f1-11e8-964b-e8b2afc0fe48.png)
 
