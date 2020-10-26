@@ -1,18 +1,22 @@
 {
-    "backend": {
-        "name": "Node",
-        "color": "#4CAF50",
-        "tags": [
+   "backend":[
+      {
+         "name":"Node",
+         "color":"#4CAF50",
+         "tags":[
             "JavaScript",
             "Express"
-        ]
-    },
-    "frontend": {
-        "name": "Html",
-        "color": "#F67B35",
-        "tags": [
+         ]
+      }
+   ],
+   "frontend":[
+      {
+         "name":"Html",
+         "color":"#F67B35",
+         "tags":[
             "Html5",
             "Css3"
-        ]
-    }
+         ]
+      }
+   ]
 }
