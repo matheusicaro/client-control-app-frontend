@@ -3,17 +3,17 @@
     "pt": {
       "kind": "Estudos",
       "name": "Web App Para Gerenciar Usuários - Front-end",
-      "intro": "API de Front-end de um aplicativo para realizar o controle de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs."
+      "intro": "Front-end de um aplicativo para realizar o controle de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs."
     },
     "en": {
       "kind": "Studies",
       "name": "Web App to manage users - Front-end",
-      "intro": "Front-end API of an application to create or control users such as: register, exclude and update - name, nickname, photo for profile (file upload). Simple design to train methods and resources in NodeJs"
+      "intro": "Front-end of an application to create or control users such as: register, exclude and update - name, nickname, photo for profile (file upload). Simple design to train methods and resources in NodeJs"
     },
     "es": {
       "kind": "Estudios",
       "name": "Web App Para Administrar Usuarios - Front-end",
-      "intro": "API de Front-end de um aplicativo para realizar o controlar de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs"
+      "intro": "Front-end de um aplicativo para realizar o controlar de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs"
     }
   },
   "stack": {
