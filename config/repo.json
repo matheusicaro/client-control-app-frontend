@@ -28,11 +28,10 @@
     ],
     "frontend": [
       {
-        "name": "Html",
+        "name": "jQuery",
         "tags": [
           "Html5",
           "Css3",
-          "jQuery",
           "Bower",
           "bootstrap"
         ]
