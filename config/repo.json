@@ -31,7 +31,10 @@
         "name": "Html",
         "tags": [
           "Html5",
-          "Css3"
+          "Css3",
+          "jQuery",
+          "Bower",
+          "bootstrap"
         ]
       }
     ]
