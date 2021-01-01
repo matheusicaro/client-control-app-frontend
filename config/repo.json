@@ -5,6 +5,11 @@
       "name": "Web App Para Gerenciar Usuários - Front-end",
       "intro": "Front-end de um aplicativo para realizar o controle de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs."
     },
+    "fr": {
+      "kind": "Études",
+      "name": "Web App Pour gérer les utilisateurs - Front-end",
+      "intro": "Front-end une application pour contrôler les utilisateurs tels que: enregistrer, supprimer et mettre à jour - nom, prénom, photo de profil (téléchargement de fichier). Conception simple pour former des méthodes et des ressources dans NodeJs."
+    },
     "en": {
       "kind": "Studies",
       "name": "Web App to manage users - Front-end",
@@ -20,21 +25,13 @@
     "backend": [
       {
         "name": "Node.js",
-        "tags": [
-          "JavaScript",
-          "Express"
-        ]
+        "tags": ["JavaScript", "Express"]
       }
     ],
     "frontend": [
       {
         "name": "jQuery",
-        "tags": [
-          "Html5",
-          "Css3",
-          "Bower",
-          "bootstrap"
-        ]
+        "tags": ["Html5", "Css3", "Bower", "bootstrap"]
       }
     ]
   }
