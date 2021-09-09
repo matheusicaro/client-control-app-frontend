@@ -1,4 +1,5 @@
 # PROJECT-CLIENT-CONTROL-FRONTEND
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/matheusicaro/client-control-app-frontend/blob/master/LICENSE)
 
 Application to perform user management, register, delete, and specify user data, such as photo to profile (file upload).
 Simple design to train methods and resources on node. Below follows the system architecture. **([repository-backend](https://github.com/matheusicaro/prj-client-control-backend))**.
