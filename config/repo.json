@@ -21,14 +21,8 @@
       "intro": "Front-end de um aplicativo para realizar o controlar de usuários como: registrar, excluir e atualizar - nome, sobrenome, foto para perfil (upload de arquivo). Design simples para treinar métodos e recursos em NodeJs"
     }
   },
-  "tags": ["Node.js", "JavaScript", "Express", "jQuery", "Bootstrap", "Back-end"],  
+  "tags": ["JavaScript", "Html5", "jQuery", "Css3", "Bootstrap", "Front-end"],  
   "stack": {
-    "backend": [
-      {
-        "name": "Node.js",
-        "tags": ["JavaScript", "Express"]
-      }
-    ],
     "frontend": [
       {
         "name": "jQuery",
